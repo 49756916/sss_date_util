@@ -1,7 +1,7 @@
 name: sss_date_util
 description: This dart package is to deal with some date questions quickly.
 #homepage: https://plus.fluttercommunity.dev/
-repository: https://www.baidu.com/
+repository: https://github.com/49756916/sss_date_util
 version: 0.0.1
 
 environment:
